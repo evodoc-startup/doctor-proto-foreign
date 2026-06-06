@@ -17,6 +17,11 @@ export const metadata: Metadata = {
   description:
     "Award-winning cardiologist providing expert, compassionate heart care. Book your appointment today for personalized treatment and trusted medical expertise.",
   keywords: "cardiologist, heart doctor, cardiac care, book appointment, Dr. Montgomery",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Dr. Harper Montgomery | Cardiologist",
     description: "Award-winning cardiologist - personalized care, trusted expertise.",
