@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4c2185698001c8c82f64226ab7c1df662b1bd658eb513887772119fa153a1e8
-size 302
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect width="48" height="48" fill="#F3DE72" opacity="0.4" rx="24"/>
+  <circle cx="24" cy="18" r="10" fill="#F3DE72" opacity="0.7"/>
+  <ellipse cx="24" cy="38" rx="15" ry="10" fill="#F3DE72" opacity="0.5"/>
+</svg>

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c21a6c50796e90ab7334ef8c49ba044c067592b191667606c9d97b5bf17f128
-size 547
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#e8f4f0"/>
+  <rect x="200" y="100" width="600" height="400" rx="20" fill="#c8ddd8" opacity="0.6"/>
+  <rect x="900" y="200" width="400" height="300" rx="16" fill="#b8ccc8" opacity="0.5"/>
+  <rect x="100" y="600" width="800" height="300" rx="12" fill="#d0e4e0" opacity="0.4"/>
+  <text x="960" y="540" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#888">Add clinic-bg.jpg here</text>
+</svg>
